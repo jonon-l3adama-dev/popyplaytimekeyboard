@@ -28,7 +28,10 @@
                 "https://raw.githubusercontent.com/jonon-l3adama-dev/popyplaytimekeyboard/refs/heads/main/d23.jpg",
                 "https://raw.githubusercontent.com/jonon-l3adama-dev/popyplaytimekeyboard/refs/heads/main/d24.jpg",
                 "https://raw.githubusercontent.com/jonon-l3adama-dev/popyplaytimekeyboard/refs/heads/main/d25.jpg"
-            ],
+            
+                 ]
+        }
+    ],
             "live_wallpapers": [
                 "https://raw.githubusercontent.com/jonon-l3adama-dev/popyplaytimekeyboard/refs/heads/main/l1.mp4",
                 "https://raw.githubusercontent.com/jonon-l3adama-dev/popyplaytimekeyboard/refs/heads/main/l2.mp4",
@@ -71,5 +74,5 @@
                 "https://raw.githubusercontent.com/jonon-l3adama-dev/popyplaytimekeyboard/refs/heads/main/key17.jpg",
                 "https://raw.githubusercontent.com/jonon-l3adama-dev/popyplaytimekeyboard/refs/heads/main/key18.jpg",
                 "https://raw.githubusercontent.com/jonon-l3adama-dev/popyplaytimekeyboard/refs/heads/main/key19.jpg"
-             ]
-}
+            ]
+        }
